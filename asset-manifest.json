@@ -1,13 +1,18 @@
 {
-  "main.css": "static/css/main.fe0c2430.css",
-  "main.css.map": "static/css/main.fe0c2430.css.map",
-  "main.js": "static/js/main.fa75b389.js",
-  "main.js.map": "static/js/main.fa75b389.js.map",
+  "main.css": "static/css/main.505b7a4a.css",
+  "main.css.map": "static/css/main.505b7a4a.css.map",
+  "main.js": "static/js/main.83a5949e.js",
+  "main.js.map": "static/js/main.83a5949e.js.map",
+  "static\\media\\Avenir.eot?iefix": "static/media/Avenir.601c7560.eot",
+  "static\\media\\Avenir.ttf": "static/media/Avenir.a8005b5d.ttf",
+  "static\\media\\Avenir.woff": "static/media/Avenir.6f120a30.woff",
   "static\\media\\arrow-icon.svg": "static/media/arrow-icon.39bd7a7f.svg",
-  "static\\media\\dots.svg": "static/media/dots.cc7c5c7b.svg",
+  "static\\media\\dots.svg": "static/media/dots.53e3d104.svg",
+  "static\\media\\form-icon.svg": "static/media/form-icon.7eb885ae.svg",
   "static\\media\\minus-btn-active.svg": "static/media/minus-btn-active.44c49e49.svg",
   "static\\media\\minus-btn.svg": "static/media/minus-btn.5e2b5aa4.svg",
   "static\\media\\plus-btn-active.svg": "static/media/plus-btn-active.41af6084.svg",
   "static\\media\\plus-btn.svg": "static/media/plus-btn.2df4e561.svg",
+  "static\\media\\preview-icon.svg": "static/media/preview-icon.183854ec.svg",
   "static\\media\\signature1.2.mp4": "static/media/signature1.2.61b3c2a6.mp4"
 }
